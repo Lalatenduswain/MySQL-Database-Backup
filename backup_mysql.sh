@@ -1,5 +1,6 @@
 #!/bin/bash
 # Author : Lalatendu Swain | https://github.com/Lalatenduswain
+# Website: https://blog.lalatendu.info
 # MySQL database information
 db_user="lalatendu"
 db_password="swain"
